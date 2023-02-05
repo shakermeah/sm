@@ -1,0 +1,27 @@
+.container{
+    width: 1170px;
+    margin: auto;
+
+}
+img{
+    width: 100%;
+}
+
+.bgc{
+    background-color: #FFF4E7;
+}
+#copydiscrip{
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+  
+}
+.sponser img {
+    width: auto;
+}
+.sponser{
+    display: flex;
+    
+
+}
